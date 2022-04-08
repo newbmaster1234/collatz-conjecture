@@ -1,2 +1,2 @@
 # collatz-conjecture
-My friend(@emm) made this for me. I learnt a lot. Thank you!
+My friend(@emm312) made this for me. I learnt a lot. Thank you!
